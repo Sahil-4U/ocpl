@@ -22,7 +22,7 @@ const Header = ({ topRef }) => {
                 : "sm:text-3xl text-5xl font-russonOne font-medium no-underline align-middle tracking-wide normal-case leading-normal text-white"
             }
           >
-            AxeL Brand new{" "}
+            OCPL new{" "}
             <span
               className={
                 theme === "light"
@@ -30,7 +30,7 @@ const Header = ({ topRef }) => {
                   : "sm:text-4xl text-white text-6xl font-petitFormal font-bold"
               }
             >
-              Furniture
+              Blockchain
             </span>{" "}
             Mobile App
           </h1>
@@ -42,9 +42,9 @@ const Header = ({ topRef }) => {
                   : "sm:text-lg w-4/5 font-inter font-medium no-underline align-middle tracking-wide normal-case text-white text-2xl"
               }
             >
-              Giving your home a propper makeover never was this easy. Modern
-              and stylish furniture for decent prices. Take a look what we offer
-              with simple button click.
+              At Ocpl Tech, we are a leading Blockchain 
+              Development Company dedicated to driving 
+              innovation for businesses in India and worldwide. 
             </p>
           </div>
           <div className="pb-20">
@@ -62,7 +62,7 @@ const Header = ({ topRef }) => {
                   : "sm:text-3xl text-5xl pb-4 font-russonOne font-medium no-underline align-middle tracking-wide normal-case leading-normal text-white"
               }
             >
-              Modern Design
+              Modern Web Apps
             </h2>
           </div>
           <img
