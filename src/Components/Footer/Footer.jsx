@@ -7,7 +7,7 @@ import googlePlay from "../../assets/images/google-play.svg";
 import appleStore from "../../assets/images/apple-store.svg";
 
 const Footer = () => {
-  const year = new Date().getFullYear();
+  const year = '2023';
   return (
     <div>
       <div className="sm:grid-cols-2 grid grid-cols-4 gap-0 items-center justify-items-center">
@@ -84,7 +84,7 @@ const Footer = () => {
         </div>
         <div>
           <p className="sm:text-xs text-dark pb-2 font-inter font-light cursor-pointer no-underline align-middle tracking-wide normal-case">
-            Copyright {year} page by Marko Web Dev
+            Copyright {year} page by Sahil dev
           </p>
         </div>
       </div>

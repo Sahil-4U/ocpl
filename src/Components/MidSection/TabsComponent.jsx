@@ -36,7 +36,7 @@ const TabsComponent = () => {
             }
           >
             AxeL offers many great features. You can create your own room,
-            request a service, buy modern lookiing furniture, sell a furniture
+            request a service, buy modern lookiing webapps, sell a your services
             and so much more. Take a snek peek at each of them.
           </p>
 
